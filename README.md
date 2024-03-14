@@ -31,4 +31,4 @@ Caso tenha interesse em visualizar as páginas comentadas acima:
 [Página Substitui](https://emillybonfim.github.io/codigo_js/substitui.html)
 
 ## Fontes 💡✨
-Ambos os código, retirei do site [Terminalroot](https://terminalroot.com.br).
+Ambos os código, retirei do site [Terminalroot](https://terminalroot.com.br/).
