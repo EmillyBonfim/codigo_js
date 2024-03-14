@@ -22,3 +22,11 @@ Esse código realiza um comando que substitui uma determinada palavra da frase a
 
 * Str.replace:  O método replace() retorna uma nova string com algumas ou todas as correspondências de um padrão substituídas por um determinado caractere (ou caracteres).
 
+## Links 👩‍💻✨
+
+Caso tenha interesse em visualizar as páginas comentadas acima:
+
+[Página Alert](https://emillybonfim.github.io/codigo_js/alert.html)
+<br>
+[Página Substitui](https://emillybonfim.github.io/codigo_js/substitui.html)
+
